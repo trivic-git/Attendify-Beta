@@ -3,7 +3,8 @@
 
 # Attendify-Beta
 
-![Attendify-Beta Demo](attendify_v1.png)
+![Attendify_v1](https://github.com/user-attachments/assets/a572f41d-d7bb-46be-b5c4-9828c245b66c)
+
 ## Overview
 
 Attendify is an innovative attendance application designed to streamline the process of taking attendance in university classes. By leveraging state-of-the-art face recognition technology, Attendify-Beta automates the tedious task of manual attendance, saving time and reducing errors.
